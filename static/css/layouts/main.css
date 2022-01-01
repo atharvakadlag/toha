@@ -176,9 +176,8 @@ img.right {
 
 /* ====== codeblocks ====== */
 table {
-  border-radius: 0.1rem;
   background: #e5e9f2;
-  border: 1px solid #c0ccda;
+  border: 1rem solid #e5e9f2;
   padding: 0.1rem;
 }
 

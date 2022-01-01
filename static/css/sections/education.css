@@ -1,6 +1,6 @@
 .education-section .education-info-table {
   width: 100%;
-  border: none;
+  /* border: none; */
 }
 
 .education-section .education-info-table tr:hover {
@@ -42,7 +42,7 @@
 }
 
 .education-section .education-info-table tr:first-child .hline {
-  height: 65%;
+  height: 60%;
   top: auto;
 }
 
